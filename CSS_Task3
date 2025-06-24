@@ -1,0 +1,8 @@
+1. Inline-CSS
+Inline-CSS wendet Stile direkt auf ein einzelnes HTML-Element an, indem es das style-Attribut innerhalb des Tags verwendet.
+
+2. Internes CSS
+Internes CSS definiert Stile für eine gesamte HTML-Seite innerhalb des <style>-Tags im <head>-Bereich des Dokuments.
+
+3. Externes CSS
+Externes CSS speichert Stile in einer separaten .css-Datei, die dann über das <link>-Tag in beliebig viele HTML-Dokumente eingebunden wird, um ein konsistentes Design websiteübergreifend zu gewährleisten.
